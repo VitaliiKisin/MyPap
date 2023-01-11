@@ -1,6 +1,11 @@
-﻿Console.WriteLine("4");
-Console.WriteLine("Делится на два, без остатка");
-Console.WriteLine("-3");
-Console.WriteLine("Делится на два c остатком");
-Console.WriteLine("7");
-Console.WriteLine("Делится на два c остатком");
+﻿int n;
+n = 20;
+
+if (n%2 == 0)
+{
+   Console.WriteLine("Четное"); 
+}
+else 
+{
+    Console.WriteLine("Нечетное");
+}
