@@ -1,0 +1,16 @@
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\bin\Debug\net6.0\Task3.exe
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\bin\Debug\net6.0\Task3.deps.json
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\bin\Debug\net6.0\Task3.dll
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\bin\Debug\net6.0\ref\Task3.dll
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\bin\Debug\net6.0\Task3.pdb
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.GlobalUsings.g.cs
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.dll
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\ref\Task3.dll
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.pdb
+C:\Users\79371\Desktop\MyPap\Homeworke\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
