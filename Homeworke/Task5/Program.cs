@@ -1,8 +1,8 @@
-﻿Console.WriteLine("Введите трехзначное число");
-string usename = Console.ReadLine();
+﻿Console.Clear();
+Console.WriteLine("Введите трехзначное число ");
 
-int a, b, c;
+int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
+string Number = Convert.ToString(threeDigitNumber);
 
-a = 9; b = 5; c = 8;
+Console.WriteLine(Number[1]);
 
-Console.WriteLine(b);
