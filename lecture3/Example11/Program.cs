@@ -76,6 +76,3 @@ string Method4(int count, string text)
 
 string res = Method4(10, "z");
 Console.WriteLine(res);
-
-//mmmmm
-kkkkk

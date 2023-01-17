@@ -1,0 +1,16 @@
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.GlobalUsings.g.cs
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.csproj.AssemblyReference.cache
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.AssemblyInfoInputs.cache
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.AssemblyInfo.cs
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.csproj.CoreCompileInputs.cache
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\bin\Debug\net6.0\Example11.exe
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\bin\Debug\net6.0\Example11.deps.json
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\bin\Debug\net6.0\Example11.runtimeconfig.json
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\bin\Debug\net6.0\Example11.dll
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\bin\Debug\net6.0\ref\Example11.dll
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\bin\Debug\net6.0\Example11.pdb
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.dll
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\ref\Example11.dll
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.pdb
+C:\Users\79371\Desktop\MyPap\lecture2\lecture3\Example11\obj\Debug\net6.0\Example11.genruntimeconfig.cache
