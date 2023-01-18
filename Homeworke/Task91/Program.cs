@@ -20,6 +20,8 @@ Console.WriteLine("Введите N-е количество целых чисе�
 int arr = Convert.ToInt32(Console.ReadLine());
 string str = Convert.ToString(arr);
 
+
+
 //char [] ar = str.ToCharArray();
 
 //char [] ar = str.ToArray<char>();
