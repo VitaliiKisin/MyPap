@@ -18,7 +18,8 @@ Console.WriteLine("Введите N-е количество целых чисе�
 //Console.WriteLine(String.Join(' ', arr));
 
 int arr = Convert.ToInt32(Console.ReadLine());
-string str = Convert.ToString(arr);
+///string str = Convert.ToString(arr);
+string[] temp = arr.Split(' ');
 
 
 
@@ -44,3 +45,4 @@ string str = Convert.ToString(arr);
 
 //res[N/2]
 //res[i] = a[i] * a[N - 1 - i];
+
