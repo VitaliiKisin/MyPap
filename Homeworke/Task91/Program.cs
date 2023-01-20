@@ -1,4 +1,5 @@
-﻿// 1. Считать данные пользователя (работа с целыми числами)
+﻿//Ввод элементов массива
+
 // 1) Считать int число
 // int <- string
 // 2. Создать массив
@@ -11,15 +12,45 @@
 // Распечатать в новый массив
 // string <- int[]
 
-Console.Clear();
 
-Console.WriteLine("Введите N-е количество целых чисел массива через пробел ");
-//int[] arr = new int[N];
+//Ввод элементов массива
+// Заполнить массив с клавиатуры
+Console.Clear();
+Console.WriteLine("Введите элементы через пробел: ");
+
+// Создание массива
+int[] arr = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+
+
+
+
+
+//int NumberfromUser(string numb);
+//{
+//Console.Write(numb + " ");
+//return Convert.ToInt32(Console.ReadLine());
+//}
+//int size = NumberfromUser("Введите длину массива N: ");
+
+// Ввод массива с клавиатуры (работа с целыми числами)
+
+//int[] array = new int[size];
+
+//void FillArray(int[] collection);
+//{
+    //int index = 0;
+    //for (int i = 0; i < collection.Length; i ++)
+    //{
+        //Console.WriteLine("Введите элемент массива {0}: ", i + 1);
+        //int num = Int32.Parse(Console.ReadLine());
+        //collection[index++] = num;
+    //}
+//}
 //Console.WriteLine(String.Join(' ', arr));
 
-int arr = Convert.ToInt32(Console.ReadLine());
+//int arr = Convert.ToInt32(Console.ReadLine());
 ///string str = Convert.ToString(arr);
-string[] temp = arr.Split(' ');
+//string[] temp = arr.Split(' ');
 
 
 
