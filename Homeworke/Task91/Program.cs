@@ -1,5 +1,4 @@
-﻿//Ввод элементов массива
-
+﻿//1.Ввод элементов массива
 // 1) Считать int число
 // int <- string
 // 2. Создать массив
@@ -12,68 +11,66 @@
 // Распечатать в новый массив
 // string <- int[]
 
-
-//Ввод элементов массива
-// Заполнить массив с клавиатуры
 Console.Clear();
-Console.WriteLine("Введите элементы через пробел: "[a]);
+Console.WriteLine();
+
+int size = new Random().Next(10, 26);
+int min = 1;
+int max = 100;
+Console.WriteLine($"Количество элементов исходного массива: {size}");
+
+int[] FillArray(int size, int min, int max)
 {
-
-// Создание массива
-int[] arr = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
-
-for ( sum; a; N; i = 0; i >= 0; i <= N / 2; i++ )
- 
+    int[] array = new int[size];
+    for (int i = 0; i < size; i++)
     {
-    sum = a[i] * a[N - 1 - i];
+        array[i] = new Random().Next(min, max + 1);
     }
-rez[i] = sum;
+    return array;
 }
-int[] newarray = rez[i];
 
-Console.WriteLine("Новый массив: ", newarray);
+// Cобираем новый массив из произведений пар.
+// В случае, если количество элементов исходного массива нечетное, 
+//центральное знаяение не учитывается
+
+int[] GetSolution(int[] data)
+{
+    int[] product = new int[data.Length / 2];
+    int last = data.Length - 1;
+    for (int i = 0; i < data.Length / 2; i++)
+    {
+        product[i] = data[i] * data[last];
+        last = last - 1;
+    }
+    return product;
+}
+
+void PrintArray(int[] arr)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write(arr[i] + " ");
+    }
+    Console.WriteLine();
+}
+
+int[] array = FillArray(size, min, max);
+PrintArray(array);
+
+Console.WriteLine();
+Console.WriteLine("Новый массив: ");
+PrintArray(GetSolution(array));
+
+// воторой вариант с выводом среднего числа (если количество элементов массива нечетное)
+
+
+
+	
 
 
 
 
-//int NumberfromUser(string numb);
-//{
-//Console.Write(numb + " ");
-//return Convert.ToInt32(Console.ReadLine());
-//}
-//int size = NumberfromUser("Введите длину массива N: ");
 
-// Ввод массива с клавиатуры (работа с целыми числами)
-
-//int[] array = new int[size];
-
-//void FillArray(int[] collection);
-//{
-    //int index = 0;
-    //for (int i = 0; i < collection.Length; i ++)
-    //{
-        //Console.WriteLine("Введите элемент массива {0}: ", i + 1);
-        //int num = Int32.Parse(Console.ReadLine());
-        //collection[index++] = num;
-    //}
-//}
-//Console.WriteLine(String.Join(' ', arr));
-
-//int arr = Convert.ToInt32(Console.ReadLine());
-///string str = Convert.ToString(arr);
-//string[] temp = arr.Split(' ');
-
-
-
-//char [] ar = str.ToCharArray();
-
-//char [] ar = str.ToArray<char>();
-//int[] Firstarray = new int[100];
-            //int i=0;
-
-//for int[]Firstarray <= N
-//int[] Firstarray = Console.ReadLine().Split().Select(int.Parse).ToArray();
-//string[] str = Console.ReadLine().Split();
 
 
 
