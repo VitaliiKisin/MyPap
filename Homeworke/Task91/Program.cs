@@ -61,19 +61,6 @@ Console.WriteLine();
 Console.WriteLine("Новый массив: ");
 PrintArray(GetSolution(array));
 
-// воторой вариант с выводом среднего числа (если количество элементов массива нечетное)
-
-
-
-	
-
-
-
-
-
-
-
-
 
 
 
