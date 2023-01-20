@@ -16,11 +16,22 @@
 //Ввод элементов массива
 // Заполнить массив с клавиатуры
 Console.Clear();
-Console.WriteLine("Введите элементы через пробел: ");
+Console.WriteLine("Введите элементы через пробел: "[a]);
+{
 
 // Создание массива
 int[] arr = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 
+for ( sum; a; N; i = 0; i >= 0; i <= N / 2; i++ )
+ 
+    {
+    sum = a[i] * a[N - 1 - i];
+    }
+rez[i] = sum;
+}
+int[] newarray = rez[i];
+
+Console.WriteLine("Новый массив: ", newarray);
 
 
 
